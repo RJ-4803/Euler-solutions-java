@@ -13,5 +13,4 @@ Instead, each solution file contains:
 ## 📂 Repository Structure
 src/
 ├── Problem001.java
-├── Problem002.java
-├── Problem003.java
+
