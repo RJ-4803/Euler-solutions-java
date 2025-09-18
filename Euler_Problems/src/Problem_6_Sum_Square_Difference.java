@@ -1,3 +1,7 @@
+// Project Euler - Problem 6
+// https://projecteuler.net/problem=1
+// Task: Find the sum square difference.
+
 import java.lang.System;
 
 public class Problem_6_Sum_Square_Difference {

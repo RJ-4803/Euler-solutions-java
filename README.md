@@ -11,6 +11,6 @@ Instead, each solution file contains:
 ---
 
 ## 📂 Repository Structure
-src/
-├── Problem001.java
+Euler_Problems/src/Problem_1.java
+
 
